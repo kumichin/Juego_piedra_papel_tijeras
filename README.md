@@ -9,9 +9,10 @@ Subida una nueva versión añadiendo 2 opciones más. Ahora el juego es piedra, 
 Añadido también una interfaz de usuario para que resulte más cómodo el jugar con partidas que terminan cuando uno de los jugadores llega a 5 puntos y botón de reseteo del juego. 
 
 **********************************************************************************************************************************************************************
-![Captura de pantalla 2024-07-04 165117](https://github.com/kumichin/Juego_piedra_papel_tijeras/assets/39243904/b1346e14-4d76-4a5f-a1a6-631c72ba0ece)
+![Uploading Captura de pantalla 2024-07-04 165117.png…]()
 
-                                                                      ********************* Objetivos de mejora *****************
+
+******** Objetivos de mejora ********
 **********************************************************************************************************************************************************************
 ** Interactuacion con el teclado
 ** Interfaz más intuitiva y con menos cosas que leer
