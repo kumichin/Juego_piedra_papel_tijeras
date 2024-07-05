@@ -15,8 +15,9 @@ Añadido también una interfaz de usuario para que resulte más cómodo el jugar
 
 ******** Objetivos de mejora ********
 **********************************************************************************************************************************************************************
-** Interactuacion con el teclado
-** Interfaz más intuitiva y con menos cosas que leer
-** efectos y sonidos, algún sonido cuando se gana y se pierde
+** Interactuacion con el teclado.
+** Interfaz más intuitiva y con menos cosas que leer.
+** efectos y sonidos, algún sonido cuando se gana y se pierde.
 ** Estaria bien incorporar interactuación con voz o con imagenes captadas por camara.
-** efecto de animación de las teclas o algo así
+** efecto de animación de las teclas o algo así.
+** Hacerlo responsive
